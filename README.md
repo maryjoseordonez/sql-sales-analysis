@@ -23,3 +23,10 @@ The goal of the project is to analyze sales performance, product profitability, 
 • Identified top profitable products
 • Analyzed regional sales performance
 • Evaluated customer segment revenue contribution
+
+## Business Insights
+
+• The Central region generated the highest sales revenue.
+• The Canon imageCLASS 2200 Advanced Copier was the most profitable product.
+• Some products generated negative profit, indicating potential pricing or cost issues.
+• Consumer segment generated the highest overall revenue.
